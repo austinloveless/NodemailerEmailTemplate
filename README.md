@@ -12,4 +12,3 @@
 4.  Check emails from TravelGram
 
 5.  Click "View TravelGram!" and watch the video!
-# NodemailerEmailTemplate
