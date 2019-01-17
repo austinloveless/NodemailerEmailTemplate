@@ -7,8 +7,8 @@ const nodemailer = require("./lib/nodemailer");
 app.use(bodyParser.json());
 
 app.post("/email", (req, res, next) => {
-  nodemailer.subscribe(req.body).then(res => {
-    res.send("sent");
+  nodemailer.subscribe(req.body).then(response => {
+    res.send("Success");
   });
 });
 
