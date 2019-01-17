@@ -11,7 +11,7 @@ app.set("view engine", "ejs");
 app.use(express.static(__dirname + "/public"));
 app.use(methodOverride("_method"));
 
-app.get("/travel", (req, res) => {
+app.get("/", (req, res) => {
   res.render("travel");
 });
 

@@ -11,7 +11,3 @@
 4.  Check emails from TravelGram
 
 5.  Click "View TravelGram!" and watch the video!
-
-## Deployed
-
-Or go to this deployed link:
