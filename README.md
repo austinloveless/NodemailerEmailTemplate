@@ -1,6 +1,6 @@
 # NodeMailerEmailHMTL
 
-##Usage
+## Usage
 
 1.  Clone or download repo
 
