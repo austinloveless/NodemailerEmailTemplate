@@ -20,8 +20,6 @@ app.get("/email", (req, res) => {
 });
 
 app.post("/email", (req, res, next) => {
-  console.log("body", req.body);
-
   nodemailer.subscribe(req.body).then(response => {
     res.send("success");
   });

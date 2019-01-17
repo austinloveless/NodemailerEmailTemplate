@@ -6,9 +6,12 @@
 
 2.  npm install all dependences
 
-3.  Using an API service(Postman, HTTPIE) do a post
-    request to localhost:4000/email and send your email in as the body of the message.
+3.  Go to localhost:4000/travel, and follow the site from there
 
 4.  Check emails from TravelGram
 
 5.  Click "View TravelGram!" and watch the video!
+
+## Deployed
+
+Or go to this deployed link:
